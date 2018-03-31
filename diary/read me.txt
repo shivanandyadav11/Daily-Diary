@@ -1,0 +1,3 @@
+open the project diary
+
+default password is 12345
